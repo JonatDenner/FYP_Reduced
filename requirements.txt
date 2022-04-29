@@ -1,0 +1,10 @@
+imutils==0.5.4
+keras==2.8.0
+keras_tcn==3.4.2
+mediapipe==0.8.9.1
+numpy==1.22.2
+opencv_python==4.5.5.64
+pandas==1.4.0
+Pillow==9.1.0
+Shapely==1.8.1.post1
+tensorflow==2.8.0
